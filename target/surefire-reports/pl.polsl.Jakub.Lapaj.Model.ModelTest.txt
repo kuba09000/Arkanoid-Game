@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: pl.polsl.Jakub.Lapaj.Model.ModelTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 0.07 s <<< FAILURE! - in pl.polsl.Jakub.Lapaj.Model.ModelTest
+testAddBlock{int}[1]  Time elapsed: 0.029 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Block out of screen ==> expected: <true> but was: <false>
+	at pl.polsl.Jakub.Lapaj.Model.ModelTest.testAddBlock(ModelTest.java:55)
+
+testAddBlock{int}[5]  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Block out of screen ==> expected: <true> but was: <false>
+	at pl.polsl.Jakub.Lapaj.Model.ModelTest.testAddBlock(ModelTest.java:55)
+
+testAddBlock{int}[6]  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Block out of screen ==> expected: <true> but was: <false>
+	at pl.polsl.Jakub.Lapaj.Model.ModelTest.testAddBlock(ModelTest.java:55)
+

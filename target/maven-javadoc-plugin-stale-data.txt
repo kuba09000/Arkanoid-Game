@@ -1,0 +1,56 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'D:/Projekty/Java/Arkanoid/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Projekty/Java/Arkanoid/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Arkanoid 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Arkanoid 1.0-SNAPSHOT API'
+Exceptions
+pl.polsl.Jakub.Lapaj.Controller
+pl.polsl.Jakub.Lapaj.Main
+pl.polsl.Jakub.Lapaj.Model
+pl.polsl.Jakub.Lapaj.View
+'D:/Projekty/Java/Arkanoid/src/main/java/Exceptions/WrongValueException.java'
+'D:/Projekty/Java/Arkanoid/src/main/java/pl/polsl/Jakub/Lapaj/Controller/Controller.java'
+'D:/Projekty/Java/Arkanoid/src/main/java/pl/polsl/Jakub/Lapaj/Main/ArkanoidMVC.java'
+'D:/Projekty/Java/Arkanoid/src/main/java/pl/polsl/Jakub/Lapaj/Model/Ball.java'
+'D:/Projekty/Java/Arkanoid/src/main/java/pl/polsl/Jakub/Lapaj/Model/Block.java'
+'D:/Projekty/Java/Arkanoid/src/main/java/pl/polsl/Jakub/Lapaj/Model/Model.java'
+'D:/Projekty/Java/Arkanoid/src/main/java/pl/polsl/Jakub/Lapaj/View/View.java'
+D:\Projekty\Java\Arkanoid\src\main\java = 1668367488785
+D:\Projekty\Java\Arkanoid\target\site\apidocs\allclasses-index.html = 1669585314238
+D:\Projekty\Java\Arkanoid\target\site\apidocs\allpackages-index.html = 1669585314242
+D:\Projekty\Java\Arkanoid\target\site\apidocs\element-list = 1669585314078
+D:\Projekty\Java\Arkanoid\target\site\apidocs\help-doc.html = 1669585314283
+D:\Projekty\Java\Arkanoid\target\site\apidocs\index-all.html = 1669585314275
+D:\Projekty\Java\Arkanoid\target\site\apidocs\index.html = 1669585314219
+D:\Projekty\Java\Arkanoid\target\site\apidocs\jquery-ui.overrides.css = 1669585314448
+D:\Projekty\Java\Arkanoid\target\site\apidocs\member-search-index.js = 1669585314246
+D:\Projekty\Java\Arkanoid\target\site\apidocs\module-search-index.js = 1669585314243
+D:\Projekty\Java\Arkanoid\target\site\apidocs\overview-summary.html = 1669585314277
+D:\Projekty\Java\Arkanoid\target\site\apidocs\overview-tree.html = 1669585314213
+D:\Projekty\Java\Arkanoid\target\site\apidocs\package-search-index.js = 1669585314244
+D:\Projekty\Java\Arkanoid\target\site\apidocs\script.js = 1669585314308
+D:\Projekty\Java\Arkanoid\target\site\apidocs\search.js = 1669585314311
+D:\Projekty\Java\Arkanoid\target\site\apidocs\serialized-form.html = 1669585314144
+D:\Projekty\Java\Arkanoid\target\site\apidocs\stylesheet.css = 1669585314294
+D:\Projekty\Java\Arkanoid\target\site\apidocs\tag-search-index.js = 1669585314247
+D:\Projekty\Java\Arkanoid\target\site\apidocs\type-search-index.js = 1669585314245

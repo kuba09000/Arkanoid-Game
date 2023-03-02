@@ -1,0 +1,44 @@
+-------------------------------------------------------------------------------
+Test set: pl.polsl.Jakub.Lapaj.Model.BallTest
+-------------------------------------------------------------------------------
+Tests run: 26, Failures: 10, Errors: 0, Skipped: 0, Time elapsed: 0.115 s <<< FAILURE! - in pl.polsl.Jakub.Lapaj.Model.BallTest
+testTop{int}[1]  Time elapsed: 0.029 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Out of screen range ==> expected: <true> but was: <false>
+	at pl.polsl.Jakub.Lapaj.Model.BallTest.testTop(BallTest.java:88)
+
+testTop{int}[5]  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Out of screen range ==> expected: <true> but was: <false>
+	at pl.polsl.Jakub.Lapaj.Model.BallTest.testTop(BallTest.java:89)
+
+testRight{int}[1]  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Out of screen range ==> expected: <true> but was: <false>
+	at pl.polsl.Jakub.Lapaj.Model.BallTest.testRight(BallTest.java:71)
+
+testRight{int}[5]  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Out of screen range ==> expected: <true> but was: <false>
+	at pl.polsl.Jakub.Lapaj.Model.BallTest.testRight(BallTest.java:72)
+
+testLeft{int}[1]  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Out of screen range ==> expected: <true> but was: <false>
+	at pl.polsl.Jakub.Lapaj.Model.BallTest.testLeft(BallTest.java:54)
+
+testLeft{int}[5]  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Out of screen range ==> expected: <true> but was: <false>
+	at pl.polsl.Jakub.Lapaj.Model.BallTest.testLeft(BallTest.java:55)
+
+testTestCollisionWithBlocks{int}[2]  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Block collides with the ball ==> expected: <false> but was: <true>
+	at pl.polsl.Jakub.Lapaj.Model.BallTest.testTestCollisionWithBlocks(BallTest.java:123)
+
+testTestCollisionWithPaddle{int}[2]  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Paddle collides with ball ==> expected: <false> but was: <true>
+	at pl.polsl.Jakub.Lapaj.Model.BallTest.testTestCollisionWithPaddle(BallTest.java:140)
+
+testBottom{int}[1]  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Out of screen range ==> expected: <true> but was: <false>
+	at pl.polsl.Jakub.Lapaj.Model.BallTest.testBottom(BallTest.java:105)
+
+testBottom{int}[5]  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Out of screen range ==> expected: <true> but was: <false>
+	at pl.polsl.Jakub.Lapaj.Model.BallTest.testBottom(BallTest.java:106)
+

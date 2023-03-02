@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"Exceptions"},{"l":"pl.polsl.Jakub.Lapaj.Controller"},{"l":"pl.polsl.Jakub.Lapaj.Main"},{"l":"pl.polsl.Jakub.Lapaj.Model"},{"l":"pl.polsl.Jakub.Lapaj.View"}];updateSearchResults();
